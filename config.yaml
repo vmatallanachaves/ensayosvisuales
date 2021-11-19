@@ -13,16 +13,16 @@ banner:
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
+- label: Primer ensayo
+  icon: fas fa-file-alt
+  action: load-page
+  path: /primer-ensayo
 - label: Contact the Juncture team
   icon: fas fa-envelope
   action: contact-us
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
-- label: Primer ensayo
-  icon: fas fa-file-code
-  action: load-page
-  path: /primer-ensayo
 
 # If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
