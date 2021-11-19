@@ -7,3 +7,5 @@ En cuanto al primer movimiento de Ensayos Visuales, dedicado al trabajo de archi
 
 
 More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
+
+This is a link to [my new essay](primer-ensayo).
