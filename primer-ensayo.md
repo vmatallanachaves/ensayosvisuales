@@ -52,5 +52,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # Bibliografía y referencias
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Alexander von Humboldt, diagram of a cross-section of the earth's crust, 1841. From Heinrich Berghaus, Physikalischer Atlas (Gotha: J. Perthes, 1852).](https://commons.wikimedia.org/wiki/File:Alexander_von_Humboldt_-_1841_-_Diagram_of_a_cross-section_of_the_earth%27s_crust.jpg)
 
