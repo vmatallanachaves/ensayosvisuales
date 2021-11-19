@@ -23,7 +23,7 @@ El interés de este ensayo es entender, de manera parcial, en qué medida las pe
 
 El ensayo busca responder la siguiente pregunta: En qué medida La géographie des plantes propuesta por Alexander von Humboldt (VH), no sólo representó un cambio en la forma de concebir el mundo natural, sino que también abrió un nueva puerta para la apropiación cultural y económica de los recursos naturales? 
 
-# Historia natural vs Biología
+## Historia natural vs Biología
 
 Para entender la producción de conocimiento sobre la naturaleza a finales del siglo XVIII e inicio del siglo XIX es importante tener en cuenta que el conocimiento se estructuraba en lo que se denominaba la historia natural, y no en lo que ahora conocemos como biología. La historia, objetiva y descriptiva, era considerada como un sistema de organización que por medio del lenguaje imponía un orden en el caos de la observación; la historia natural por lo tanto se enfocaba en la clasificación esquemática de lo observado. 
 
@@ -39,7 +39,7 @@ Esta propuesta resultó en el “Naturgemälde” que acompaña el Essai sur la 
 
 De este modo, los trabajos de VH se distancian de los de quienes únicamente ilustraban la naturaleza. En esas ilustraciones el objetivo descriptivo no era central, perdiéndose así el elemento clave de la historia natural, que según Foucault, para ese período era su capacidad de descripción para reducir la distancia entre las cosas y el lenguaje y acercar el lenguaje a la mirada: “La historia natural no es otra cosa que la denominación de lo visible” y no “el acceso al conocimiento que guardaba antes la verdad de la naturaleza”. En este sentido, la pintura juega un rol auxiliar al análisis plasmado textualmente más allá de la simple contemplación de las plantas para su divulgación. En VH la imagen no es una representación simple de la exterioridad observada sino una síntesis de su comprensión integral en su proyecto de “remonter avec quelque certitude jusqu’au premier état physique du globe”. 
 
-# El orden de la inmensidad
+## El orden de la inmensidad
 
 Ahora bien, para Foucault el discurso no es un discurso exclusivo sobre la naturaleza, sino un discurso que organiza el mundo en sí. En consecuencia, la historia natural instaura el orden de las cosas en el campo natural a través de la mirada, la comprensión y la descripción:
 “El orden es [...] lo que no existe a no ser a través de la reja de una mirada, de una atención, de un lenguaje; [...] esperando en silencio el momento de ser enunciado.”
@@ -55,7 +55,7 @@ Por otro lado, para Foucault configuración de un archivo de documentos (herbari
 Aquí es donde se responde la pregunta inicial. Al plantear una nueva forma de concebir el mundo natural y su estudio, en el que la representación y comprensión son entendidos como una producción de conocimiento abierto, la investigación de VH hizo parte del desarrollo de un discurso oficial sobre los recursos naturales, de un nuevo régimen de verdad que estaba surgiendo en el momento: el régimen discurso de la biología.
 
 
-## sub subtítulo 1
+### sub subtítulo 1
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
@@ -66,13 +66,13 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## sub subtítulo 2
+### sub subtítulo 2
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## sub subtítulo 3
+### sub subtítulo 3
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
@@ -80,7 +80,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
-# Bibliografía y referencias
+### Bibliografía y referencias
 
 [^1]: [Wikipedia: Alexander von Humboldt, diagram of a cross-section of the earth's crust, 1841. From Heinrich Berghaus, Physikalischer Atlas (Gotha: J. Perthes, 1852).](https://commons.wikimedia.org/wiki/File:Alexander_von_Humboldt_-_1841_-_Diagram_of_a_cross-section_of_the_earth%27s_crust.jpg)
 
