@@ -98,4 +98,3 @@ Aquí es donde se responde la pregunta inicial. Al plantear una nueva forma de c
 [^ref12]: Idem. P.22
 [^ref13]: Humboldt von Alexander. Essai sur la géographie des plantes. France: Levrault, Schoell et Compagnie, Librairies. 1805. P.27
 [^ref14]: Foucault, Michel. Les mots et les choses. France: Éditions Gallimard. 1966. (México: Ed. Siglo Veintiuno. 1974) P.133
-
