@@ -7,8 +7,7 @@
        num-images="x"
        num-primary-sources="x"
        author="Verónica Matallana Chaves">
-     
-Desde finales del pasado siglo, la investigación académica sobre la relación entre ciencia y literatura se ha enfocado en el material producido durante el largo periodo comprendido entre los siglos XVI y XVIII. Estos estudios tratan de entender la perspectiva humanística y su ideal de un conocimiento unificado del universo natural y social. Esta búsqueda europea por reorganizar el conocimiento del mundo, para entenderlo en su totalidad, se plasmó en expediciones científicas, relatos de viaje y ensayos filosóficos. La exploración del territorio de América, por entonces desconocido en gran medida por los imperios coloniales, dio lugar a un sinnúmero de estudios que alimentaron imaginarios sobre la relación del hombre con su entorno natural. 
+    
      
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -17,6 +16,8 @@ Desde finales del pasado siglo, la investigación académica sobre la relación 
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
+
+Desde finales del pasado siglo, la investigación académica sobre la relación entre ciencia y literatura se ha enfocado en el material producido durante el largo periodo comprendido entre los siglos XVI y XVIII. Estos estudios tratan de entender la perspectiva humanística y su ideal de un conocimiento unificado del universo natural y social. Esta búsqueda europea por reorganizar el conocimiento del mundo, para entenderlo en su totalidad, se plasmó en expediciones científicas, relatos de viaje y ensayos filosóficos. La exploración del territorio de América, por entonces desconocido en gran medida por los imperios coloniales, dio lugar a un sinnúmero de estudios que alimentaron imaginarios sobre la relación del hombre con su entorno natural. 
 
 # Este es un primer subtítulo
 
