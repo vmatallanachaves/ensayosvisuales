@@ -71,6 +71,16 @@ Aquí es donde se responde la pregunta inicial. Al plantear una nueva forma de c
 <param ve-map center="Q36600" zoom="11">
 
 
+
+## Bibliografía
+
+- Foucault, Michel. Les mots et les choses. France: Éditions Gallimard. 1966. (México: Ed. Siglo Veintiuno. 1974)
+- Foucault, Michel. L’archéologie du savoir. France: Éditions Gallimard. 1969. 
+- Pratt, Mary Louise. Ojos imperiales. Literatura de viajes y transculturación. Buenos Aires: FCE. 2011
+- Humboldt, von Alexander. Essai sur la géographie des plantes. France: Levrault, Schoell et Compagnie, Librairies. 1805.
+- Humboldt von Alexander. Cosmos. Essai d'une description physique du Monde. France: Gide et J. Baudry, Éditeurs. 1855. 
+
+
 ## Referencias
 
 [^1]: [Wikipedia: Alexander von Humboldt, diagram of a cross-section of the earth's crust, 1841. From Heinrich Berghaus, Physikalischer Atlas (Gotha: J. Perthes, 1852).](https://commons.wikimedia.org/wiki/File:Alexander_von_Humboldt_-_1841_-_Diagram_of_a_cross-section_of_the_earth%27s_crust.jpg)
@@ -89,11 +99,3 @@ Aquí es donde se responde la pregunta inicial. Al plantear una nueva forma de c
 [^ref13]: Humboldt von Alexander. Essai sur la géographie des plantes. France: Levrault, Schoell et Compagnie, Librairies. 1805. P.27
 [^ref14]: Foucault, Michel. Les mots et les choses. France: Éditions Gallimard. 1966. (México: Ed. Siglo Veintiuno. 1974) P.133
 
-
-## Bibliografía
-
-- Foucault, Michel. Les mots et les choses. France: Éditions Gallimard. 1966. (México: Ed. Siglo Veintiuno. 1974)
-- Foucault, Michel. L’archéologie du savoir. France: Éditions Gallimard. 1969. 
-- Pratt, Mary Louise. Ojos imperiales. Literatura de viajes y transculturación. Buenos Aires: FCE. 2011
-- Humboldt, von Alexander. Essai sur la géographie des plantes. France: Levrault, Schoell et Compagnie, Librairies. 1805.
-- Humboldt von Alexander. Cosmos. Essai d'une description physique du Monde. France: Gide et J. Baudry, Éditeurs. 1855. 
