@@ -43,11 +43,12 @@ De este modo, los trabajos de VH se distancian de los de quienes únicamente ilu
 
 Ahora bien, para Foucault el discurso no es un discurso exclusivo sobre la naturaleza, sino un discurso que organiza el mundo en sí. En consecuencia, la historia natural instaura el orden de las cosas en el campo natural a través de la mirada, la comprensión y la descripción:
 “El orden es [...] lo que no existe a no ser a través de la reja de una mirada, de una atención, de un lenguaje; [...] esperando en silencio el momento de ser enunciado.”
-	Un elemento importante en el Essai sur la géographie des plantes son las nociones de constante natural y variable accidental:
+
+Un elemento importante en el Essai sur la géographie des plantes son las nociones de constante natural y variable accidental:
 “C’est cette science qui examine si, à travers l’immense variété des formes végétales, on peut reconnoître quelques formes primitives, et si la diversité des espèces doit être considérée comme l’effet d’une dégénération qui a rendu constantes, avec le temps, des variétés d’abord accidentelles.”
 El desarrollo de estas dos nociones es lo que permite hacer una transición de la clasificación propuesta por Linneo que se enfocaba en las semejanzas a una taxonomía basada en el continuum natural previo al lenguaje. Cuando Humboldt menciona que “la géographie des plantes descend dans l’intérieur du globe: elle y consulte les monuments antiques que la nature a laissés dans les pétrifications” se puede percibir la idea de una anterioridad natural que establece un recorrido para llegar a la existencia actual de la especie. 
 
-	Para finalizar el análisis del ensayo de Humboldt falta entender el cambio en las formas de producir documentos, conservarlos y clasificarlos. Aquí los puntos de vista varían. Por un lado Humboldt considera por más que 
+Para finalizar el análisis del ensayo de Humboldt falta entender el cambio en las formas de producir documentos, conservarlos y clasificarlos. Aquí los puntos de vista varían. Por un lado Humboldt considera por más que 
 “l’homme inquiet et laborieux, en parcourant les diverses parties du monde, a forcé un certain nombre de végétaux d’habiter tous les climats et toutes les hauteurs; mais cet empire exercé sur ces êtres organisés n’a point dénaturé leur structure primitive”.
 Por otro lado, para Foucault configuración de un archivo de documentos (herbarios, colecciones, jardines) va de la mano con la instauración de “un orden que es del mismo tipo que el que se estableció entre los vivientes”. 
 
