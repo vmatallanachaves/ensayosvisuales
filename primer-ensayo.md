@@ -24,6 +24,12 @@ Desde finales del pasado siglo, la investigación académica sobre la relación 
 
 El interés de este ensayo es entender, de manera parcial, en qué medida las perspectivas humanistas en el estudio de la naturaleza transformaron la forma de aprehender  y representar la realidad. Se trata de un ejercicio inicial para entender la producción de conocimiento en las categorías de estudio de viajeros europeos y en particular en el viaje de Alexander von Humboldt y Aimé Bonpland.
 
+<param ve-image 
+       label="Geografía de las plantas equinocciales: tabla física de los Andes y los países vecinos" 
+       description="Géographie des plantes équinoxiales: tableau physique des Andes et pays voisins ; dressé d'apres des observations & des mesures prises sur les lieux depuis le 10e. degre de latitude boréale jusqu'au 10e. de latitude australe en 1799-1803" 
+       license="public domain" 
+       url="https://babel.banrepcultural.org/digital/iiif/p17054coll13/179/full/full/0/default.jpg">
+
 El ensayo busca responder la siguiente pregunta: ¿En qué medida *La géographie des plantes* propuesta por Alexander von Humboldt, no sólo representó un cambio en la forma de concebir el mundo natural, sino que también abrió un nueva puerta para la apropiación cultural y económica de los recursos naturales? 
 
 ## Historia natural vs Biología
