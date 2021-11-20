@@ -9,8 +9,8 @@
        author="Verónica Matallana Chaves">
     
 <param ve-image 
-       label="Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition auf dem Dampfer "Valdivia" 1898-1899. Im Auftrage des Reichsamtes des Innern hrsg. von Carl Chun [et al.]" 
-       description="lámina científica" 
+       label="Resultados científicos de la expedición alemana de alta mar en el barco *Valdivia*" 
+       description="Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition auf dem Dampfer *Valdivia* 1898-1899. Im Auftrage des Reichsamtes des Innern hrsg. von Carl Chun [et al.]" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wissenschaftliche_Ergebnisse_der_Deutschen_Tiefsee-Expedition_auf_dem_Dampfer_%22Valdivia%22_1898-1899_%28Taf._XVIII%29_%286388993585%29.jpg">
 
