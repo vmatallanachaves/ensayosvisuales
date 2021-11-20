@@ -1,5 +1,5 @@
 <param ve-config 
-       title="La naturaleza y la producción de un nuevo de discurso"
+       title="Sobre la naturaleza y la producción de un nuevo de discurso"
        banner="https://upload.wikimedia.org/wikipedia/commons/a/ae/Alexander_von_Humboldt_-_1841_-_Diagram_of_a_cross-section_of_the_earth%27s_crust.jpg" 
        layout="vertical"
        num-maps="x"
