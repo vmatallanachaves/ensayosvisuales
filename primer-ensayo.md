@@ -8,6 +8,11 @@
        num-primary-sources="x"
        author="Verónica Matallana Chaves">
     
+<param ve-image 
+       label="Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition auf dem Dampfer "Valdivia" 1898-1899. Im Auftrage des Reichsamtes des Innern hrsg. von Carl Chun [et al.]" 
+       description="lámina científica" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wissenschaftliche_Ergebnisse_der_Deutschen_Tiefsee-Expedition_auf_dem_Dampfer_%22Valdivia%22_1898-1899_%28Taf._XVIII%29_%286388993585%29.jpg">
 
 Desde finales del pasado siglo, la investigación académica sobre la relación entre ciencia y literatura se ha enfocado en el material producido durante el largo periodo comprendido entre los siglos XVI y XVIII. Estos estudios tratan de entender la perspectiva humanística y su ideal de un conocimiento unificado del universo natural y social. Esta búsqueda europea por reorganizar el conocimiento del mundo, para entenderlo en su totalidad, se plasmó en expediciones científicas, relatos de viaje y ensayos filosóficos. La exploración del territorio de América, por entonces desconocido en gran medida por los imperios coloniales, dio lugar a un sinnúmero de estudios que alimentaron imaginarios sobre la relación del hombre con su entorno natural. 
 
