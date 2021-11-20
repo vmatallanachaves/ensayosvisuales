@@ -76,6 +76,11 @@ Así mismo, Von Humboldt plantea la necesidad de plasmar su entendimiento de las
 Esta propuesta resultó en el “Naturgemälde” que acompaña el Essai sur la géographie des plantes y más adelante en los mapas que acompañaron su magistral obra *Cosmos*. Essai d'une description physique du Monde. La articulación entre las prácticas visuales y verbales para explicar la historia natural es esencial para comprender su proyecto. Según él, 
 “C’est en multipliant les moyens à l’aide desquels on reproduit, sous des images saisissantes, l’ensemble des phénomènes naturels, que l’on peut familiariser les hommes avec l’unité du monde et leur faire sentir plus vivement le concert harmonieux de la nature.”[^ref6]
 
+<param ve-image 
+       label="e Correspondant: revue mensuelle: religion, philosophie, politique.../ directeur E. Wilson; gérant V.-A. Waille, 1846-04" 
+       license="public domain" 
+       url="https://user-images.githubusercontent.com/68241787/142709749-94754cec-05cf-490f-9210-9d9f662b8e79.jpeg">
+
 De este modo, los trabajos de Von Humboldt se distancian de los de quienes únicamente ilustraban la naturaleza. En esas ilustraciones el objetivo descriptivo no era central, perdiéndose así el elemento clave de la historia natural, que según Foucault, para ese período era su capacidad de descripción para reducir la distancia entre las cosas y el lenguaje y acercar el lenguaje a la mirada: “La historia natural no es otra cosa que la denominación de lo visible” [^ref7] y no “el acceso al conocimiento que guardaba antes la verdad de la naturaleza”.[^ref8] En este sentido, la pintura juega un rol auxiliar al análisis plasmado textualmente más allá de la simple contemplación de las plantas para su divulgación. En los escritos de Humboldt la imagen no es una representación simple de la exterioridad observada sino una síntesis de su comprensión integral en su proyecto de “remonter avec quelque certitude jusqu’au premier état physique du globe”.[^ref9] 
 
 ## El orden de la inmensidad
