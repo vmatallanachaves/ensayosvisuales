@@ -49,8 +49,14 @@ Para entender la producción de conocimiento sobre la naturaleza a finales del s
        license="public domain" 
        url="https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k213927k">
 
-La propuesta disciplinar de Alexander von Humboldt, que denominó como La Géographie des plantes, se estructuró como una nueva forma de comprender la naturaleza a partir del Systema naturae de Linneo. En esa medida, l’histoire naturelle descriptive, como él la entendía, se centraba en “la connoissance des formes sous lesquelles se présentent les êtres organisés”.[^ref1] Para Alexander Von Humboldt, la clasificación  textual de la naturaleza era una herramienta más no una ciencia como tal. En el Ensayo, se evidencia de la precoz formulación de su proyecto:
+La propuesta disciplinar de Alexander von Humboldt, que denominó como *La Géographie des plantes*, se estructuró como una nueva forma de comprender la naturaleza a partir del Systema naturae de Linneo. En esa medida, l’histoire naturelle descriptive, como él la entendía, se centraba en “la connoissance des formes sous lesquelles se présentent les êtres organisés”.[^ref1] Para Alexander Von Humboldt, la clasificación  textual de la naturaleza era una herramienta más no una ciencia como tal. En el *Ensayo*, se evidencia de la precoz formulación de su proyecto:
 “il n’est pas moins important de fixer la Géographie des plantes; science dont il n’existe encore que le nom, et qui cependant fait une partie essentielle de la physique générale.”[^ref2]
+
+<param ve-image 
+       label="Esquisse des principales hauteurs des deux continens"
+       description="Esquisse des principales hauteurs des deux continens , dressée par M. de Göthe,... d'après l'ouvrage de M. de Humboldt, publié en 1807, sous le titre d'*Essai sur la géographie des plantes*"
+       license="public domain" 
+       url="https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k9718088m/f2">
 
 Esto permite entender cómo Von Humboldt identificaba los mecanismos de configuración de una nueva ciencia. La Geografía de las plantas planteaba una comprensión integral de la vegetación y su relación con el ambiente: “C’est cette science qui considère les végétaux sous les rapports de leur association locale dans les différents climats”.[^ref3] Para Von Humboldt, los conocimientos de la geología, la geografía y la botánica se encontraban entretejidos en el estudio central de las plantas y se complementaban para alcanzar una mirada global, humanista, del mundo objetivo más allá del contexto cultural local. El planteamiento de Foucault sobre el surgimiento de “una ciencia” es importante, pues alerta sobre el hecho de que esta “nunca puede nacer de la ausencia de otra ni del fracaso, ni de los obstáculos encontrados por otra”.[^ref4] En este sentido, el proyecto de Alexander Von Humboldt de entramar las relaciones entre “seres vivos” como una red del universo no demerita el éxito o fracaso de las aproximaciones hasta el momento desarrolladas por la geología, geografía, la física, etc., sino de un cambio en la comprensión y metodología de análisis de un objeto de estudio integral.
 
@@ -75,23 +81,6 @@ Para finalizar el análisis del ensayo de Humboldt falta entender el cambio en l
 Por otro lado, para Foucault configuración de un archivo de documentos (herbarios, colecciones, jardines) va de la mano con la instauración de “un orden que es del mismo tipo que el que se estableció entre los vivientes”.[^ref14]
 
 Aquí es donde se responde la pregunta inicial. Al plantear una nueva forma de concebir el mundo natural y su estudio, en el que la representación y comprensión son entendidos como una producción de conocimiento abierto, la investigación de Von Humboldt hizo parte del desarrollo de un discurso oficial sobre los recursos naturales, de un nuevo régimen de verdad que estaba surgiendo en el momento: el régimen discurso de la biología.
-
-
-
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-
-
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
 
 
 ## Bibliografía
