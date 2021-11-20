@@ -36,6 +36,17 @@ El ensayo busca responder la siguiente pregunta: ¿En qué medida *La géographi
 
 Para entender la producción de conocimiento sobre la naturaleza a finales del siglo XVIII e inicio del siglo XIX es importante tener en cuenta que el conocimiento se estructuraba en lo que se denominaba la historia natural, y no en lo que ahora conocemos como biología. La historia, objetiva y descriptiva, era considerada como un sistema de organización que por medio del lenguaje imponía un orden en el caos de la observación; la historia natural por lo tanto se enfocaba en la clasificación esquemática de lo observado. 
 
+<param ve-image 
+       label="Histoire naturelle, pour les classes élémentaires. Géologie et minéralogie par J.Guibert" 
+       description="Manuels d'enseignement primaire" 
+       license="public domain" 
+       url="https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k2097650/f3">
+       
+<param ve-image 
+       label="Histoire naturelle: simples éléments par L. Maurice" 
+       license="public domain" 
+       url="https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k213927k">
+
 La propuesta disciplinar de Alexander von Humboldt, que denominó como La Géographie des plantes, se estructuró como una nueva forma de comprender la naturaleza a partir del Systema naturae de Linneo. En esa medida, l’histoire naturelle descriptive, como él la entendía, se centraba en “la connoissance des formes sous lesquelles se présentent les êtres organisés”.[^ref1] Para Alexander Von Humboldt, la clasificación  textual de la naturaleza era una herramienta más no una ciencia como tal. En el Ensayo, se evidencia de la precoz formulación de su proyecto:
 “il n’est pas moins important de fixer la Géographie des plantes; science dont il n’existe encore que le nom, et qui cependant fait une partie essentielle de la physique générale.”[^ref2]
 
