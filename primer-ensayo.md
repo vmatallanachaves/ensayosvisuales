@@ -52,13 +52,24 @@ Para entender la producción de conocimiento sobre la naturaleza a finales del s
 La propuesta disciplinar de Alexander von Humboldt, que denominó como *La Géographie des plantes*, se estructuró como una nueva forma de comprender la naturaleza a partir del Systema naturae de Linneo. En esa medida, l’histoire naturelle descriptive, como él la entendía, se centraba en “la connoissance des formes sous lesquelles se présentent les êtres organisés”.[^ref1] Para Alexander Von Humboldt, la clasificación  textual de la naturaleza era una herramienta más no una ciencia como tal. En el *Ensayo*, se evidencia de la precoz formulación de su proyecto:
 “il n’est pas moins important de fixer la Géographie des plantes; science dont il n’existe encore que le nom, et qui cependant fait une partie essentielle de la physique générale.”[^ref2]
 
+
+<param ve-image 
+       label="The Geographical Distribution of Plants. Outline of Botanical Geography, The Distribution of Plants in a Perpendicular Direction."
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Alexander_von_Humboldt_-_1850_-_Geographical_Distribution_of_Plants.jpg">
+
+Esto permite entender cómo Von Humboldt identificaba los mecanismos de configuración de una nueva ciencia. La Geografía de las plantas planteaba una comprensión integral de la vegetación y su relación con el ambiente: “C’est cette science qui considère les végétaux sous les rapports de leur association locale dans les différents climats”.[^ref3] Para Von Humboldt, los conocimientos de la geología, la geografía y la botánica se encontraban entretejidos en el estudio central de las plantas y se complementaban para alcanzar una mirada global, humanista, del mundo objetivo más allá del contexto cultural local. El planteamiento de Foucault sobre el surgimiento de “una ciencia” es importante, pues alerta sobre el hecho de que esta “nunca puede nacer de la ausencia de otra ni del fracaso, ni de los obstáculos encontrados por otra”.[^ref4] En este sentido, el proyecto de Alexander Von Humboldt de entramar las relaciones entre “seres vivos” como una red del universo no demerita el éxito o fracaso de las aproximaciones hasta el momento desarrolladas por la geología, geografía, la física, etc., sino de un cambio en la comprensión y metodología de análisis de un objeto de estudio integral.
+
 <param ve-image 
        label="Esquisse des principales hauteurs des deux continens"
        description="Esquisse des principales hauteurs des deux continens , dressée par M. de Göthe,... d'après l'ouvrage de M. de Humboldt, publié en 1807, sous le titre d'*Essai sur la géographie des plantes*"
        license="public domain" 
        url="https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k9718088m/f2">
-
-Esto permite entender cómo Von Humboldt identificaba los mecanismos de configuración de una nueva ciencia. La Geografía de las plantas planteaba una comprensión integral de la vegetación y su relación con el ambiente: “C’est cette science qui considère les végétaux sous les rapports de leur association locale dans les différents climats”.[^ref3] Para Von Humboldt, los conocimientos de la geología, la geografía y la botánica se encontraban entretejidos en el estudio central de las plantas y se complementaban para alcanzar una mirada global, humanista, del mundo objetivo más allá del contexto cultural local. El planteamiento de Foucault sobre el surgimiento de “una ciencia” es importante, pues alerta sobre el hecho de que esta “nunca puede nacer de la ausencia de otra ni del fracaso, ni de los obstáculos encontrados por otra”.[^ref4] En este sentido, el proyecto de Alexander Von Humboldt de entramar las relaciones entre “seres vivos” como una red del universo no demerita el éxito o fracaso de las aproximaciones hasta el momento desarrolladas por la geología, geografía, la física, etc., sino de un cambio en la comprensión y metodología de análisis de un objeto de estudio integral.
+       
+<param ve-image 
+       label="View of Nature in all Climates, from the Equator to the Arctic Circle, 1852"
+       license="public domain" 
+       url="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~307861~90077739:View-of-Nature-in-all-Climates,-fro?sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no#">
 
 Así mismo, Von Humboldt plantea la necesidad de plasmar su entendimiento de las plantas en planos que combinan información textual con representaciones gráficas y no solo por medio de diarios de viajes e informes:
 “Il seroit intéressant de désigner sur de cartes botaniques les terrains où vivent ces assemblages de végétaux de la même espèce.”[^ref5] 
