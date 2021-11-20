@@ -8,6 +8,11 @@
        num-primary-sources="x"
        author="Verónica Matallana Chaves">
     
+    
+Desde finales del pasado siglo, la investigación académica sobre la relación entre ciencia y literatura se ha enfocado en el material producido durante el largo periodo comprendido entre los siglos XVI y XVIII. Estos estudios tratan de entender la perspectiva humanística y su ideal de un conocimiento unificado del universo natural y social. Esta búsqueda europea por reorganizar el conocimiento del mundo, para entenderlo en su totalidad, se plasmó en expediciones científicas, relatos de viaje y ensayos filosóficos. La exploración del territorio de América, por entonces desconocido en gran medida por los imperios coloniales, dio lugar a un sinnúmero de estudios que alimentaron imaginarios sobre la relación del hombre con su entorno natural. 
+
+El interés de este ensayo es entender, de manera parcial, en qué medida las perspectivas humanistas en el estudio de la naturaleza transformaron la forma de aprehender  y representar la realidad. Se trata de un ejercicio inicial para entender la producción de conocimiento en las categorías de estudio de viajeros europeos y en particular en el viaje de Alexander von Humboldt y Aimé Bonpland.
+
 <param ve-image 
        label="Resultados científicos de la expedición alemana de alta mar en el barco *Valdivia*" 
        description="Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition auf dem Dampfer *Valdivia* 1898-1899. Im Auftrage des Reichsamtes des Innern hrsg. von Carl Chun [et al.]" 
@@ -19,10 +24,7 @@
        description="José Celestino Mutis, Real Expedición Botánica al Nuevo Reino de Granada, t. 2170 (1783-1817)" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/4/44/Quararibea_turbinata_Mutis.png">
-
-Desde finales del pasado siglo, la investigación académica sobre la relación entre ciencia y literatura se ha enfocado en el material producido durante el largo periodo comprendido entre los siglos XVI y XVIII. Estos estudios tratan de entender la perspectiva humanística y su ideal de un conocimiento unificado del universo natural y social. Esta búsqueda europea por reorganizar el conocimiento del mundo, para entenderlo en su totalidad, se plasmó en expediciones científicas, relatos de viaje y ensayos filosóficos. La exploración del territorio de América, por entonces desconocido en gran medida por los imperios coloniales, dio lugar a un sinnúmero de estudios que alimentaron imaginarios sobre la relación del hombre con su entorno natural. 
-
-El interés de este ensayo es entender, de manera parcial, en qué medida las perspectivas humanistas en el estudio de la naturaleza transformaron la forma de aprehender  y representar la realidad. Se trata de un ejercicio inicial para entender la producción de conocimiento en las categorías de estudio de viajeros europeos y en particular en el viaje de Alexander von Humboldt y Aimé Bonpland.
+       
 
 El ensayo busca responder la siguiente pregunta: ¿En qué medida *La géographie des plantes* propuesta por Alexander von Humboldt, no sólo representó un cambio en la forma de concebir el mundo natural, sino que también abrió un nueva puerta para la apropiación cultural y económica de los recursos naturales? 
 
