@@ -17,7 +17,8 @@
        label="Quararibea turbinata" 
        description="José Celestino Mutis, Real Expedición Botánica al Nuevo Reino de Granada, t. 2170 (1783-1817)" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/44/Quararibea_turbinata_Mutis.png">    
+       url="https://upload.wikimedia.org/wikipedia/commons/4/44/Quararibea_turbinata_Mutis.png"> 
+       
 Desde finales del pasado siglo, la investigación académica sobre la relación entre ciencia y literatura se ha enfocado en el material producido durante el largo periodo comprendido entre los siglos XVI y XVIII. Estos estudios tratan de entender la perspectiva humanística y su ideal de un conocimiento unificado del universo natural y social. Esta búsqueda europea por reorganizar el conocimiento del mundo, para entenderlo en su totalidad, se plasmó en expediciones científicas, relatos de viaje y ensayos filosóficos. La exploración del territorio de América, por entonces desconocido en gran medida por los imperios coloniales, dio lugar a un sinnúmero de estudios que alimentaron imaginarios sobre la relación del hombre con su entorno natural. 
 
 El interés de este ensayo es entender, de manera parcial, en qué medida las perspectivas humanistas en el estudio de la naturaleza transformaron la forma de aprehender  y representar la realidad. Se trata de un ejercicio inicial para entender la producción de conocimiento en las categorías de estudio de viajeros europeos y en particular en el viaje de Alexander von Humboldt y Aimé Bonpland.
@@ -27,6 +28,7 @@ El interés de este ensayo es entender, de manera parcial, en qué medida las pe
        description="Géographie des plantes équinoxiales: tableau physique des Andes et pays voisins ; dressé d'apres des observations & des mesures prises sur les lieux depuis le 10e. degre de latitude boréale jusqu'au 10e. de latitude australe en 1799-1803" 
        license="public domain" 
        url="https://babel.banrepcultural.org/digital/iiif/p17054coll13/179/full/full/0/default.jpg">
+       
 El ensayo busca responder la siguiente pregunta: ¿En qué medida *La géographie des plantes* propuesta por Alexander von Humboldt, no sólo representó un cambio en la forma de concebir el mundo natural, sino que también abrió un nueva puerta para la apropiación cultural y económica de los recursos naturales? 
 
 
@@ -41,12 +43,14 @@ El ensayo busca responder la siguiente pregunta: ¿En qué medida *La géographi
        label="Histoire naturelle: simples éléments par L. Maurice" 
        license="public domain" 
        url="https://gallica.bnf.fr/view3if/ga/ark:/12148/bpt6k213927k">
+       
 Para entender la producción de conocimiento sobre la naturaleza a finales del siglo XVIII e inicio del siglo XIX es importante tener en cuenta que el conocimiento se estructuraba en lo que se denominaba la historia natural, y no en lo que ahora conocemos como biología. La historia, objetiva y descriptiva, era considerada como un sistema de organización que por medio del lenguaje imponía un orden en el caos de la observación; la historia natural por lo tanto se enfocaba en la clasificación esquemática de lo observado. 
 
 <param ve-image 
        label="The Geographical Distribution of Plants. Outline of Botanical Geography, The Distribution of Plants in a Perpendicular Direction."
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Alexander_von_Humboldt_-_1850_-_Geographical_Distribution_of_Plants.jpg">
+       
 La propuesta disciplinar de Alexander von Humboldt, que denominó como *La Géographie des plantes*, se estructuró como una nueva forma de comprender la naturaleza a partir del Systema naturae de Linneo. En esa medida, l’histoire naturelle descriptive, como él la entendía, se centraba en “la connoissance des formes sous lesquelles se présentent les êtres organisés”.[^ref1] Para Alexander Von Humboldt, la clasificación  textual de la naturaleza era una herramienta más no una ciencia como tal. En el *Ensayo*, se evidencia de la precoz formulación de su proyecto:
 “il n’est pas moins important de fixer la Géographie des plantes; science dont il n’existe encore que le nom, et qui cependant fait une partie essentielle de la physique générale.”[^ref2]
 
@@ -59,12 +63,14 @@ La propuesta disciplinar de Alexander von Humboldt, que denominó como *La Géog
        label="View of Nature in all Climates, from the Equator to the Arctic Circle, 1852"
        license="public domain" 
        url="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~307861~90077739:View-of-Nature-in-all-Climates,-fro?sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no#">
+       
 Esto permite entender cómo Von Humboldt identificaba los mecanismos de configuración de una nueva ciencia. La Geografía de las plantas planteaba una comprensión integral de la vegetación y su relación con el ambiente: “C’est cette science qui considère les végétaux sous les rapports de leur association locale dans les différents climats”.[^ref3] Para Von Humboldt, los conocimientos de la geología, la geografía y la botánica se encontraban entretejidos en el estudio central de las plantas y se complementaban para alcanzar una mirada global, humanista, del mundo objetivo más allá del contexto cultural local. El planteamiento de Foucault sobre el surgimiento de “una ciencia” es importante, pues alerta sobre el hecho de que esta “nunca puede nacer de la ausencia de otra ni del fracaso, ni de los obstáculos encontrados por otra”.[^ref4] En este sentido, el proyecto de Alexander Von Humboldt de entramar las relaciones entre “seres vivos” como una red del universo no demerita el éxito o fracaso de las aproximaciones hasta el momento desarrolladas por la geología, geografía, la física, etc., sino de un cambio en la comprensión y metodología de análisis de un objeto de estudio integral.
 
 <param ve-image 
        label="Le Correspondant: revue mensuelle: religion, philosophie, politique.../ directeur E. Wilson; gérant V.-A. Waille, 1846-04" 
        license="public domain" 
        url="https://user-images.githubusercontent.com/68241787/142709749-94754cec-05cf-490f-9210-9d9f662b8e79.jpeg">
+       
 Así mismo, Von Humboldt plantea la necesidad de plasmar su entendimiento de las plantas en planos que combinan información textual con representaciones gráficas y no solo por medio de diarios de viajes e informes:
 “Il seroit intéressant de désigner sur de cartes botaniques les terrains où vivent ces assemblages de végétaux de la même espèce.”[^ref5] 
 Esta propuesta resultó en el “Naturgemälde” que acompaña el Essai sur la géographie des plantes y más adelante en los mapas que acompañaron su magistral obra *Cosmos*. Essai d'une description physique du Monde. La articulación entre las prácticas visuales y verbales para explicar la historia natural es esencial para comprender su proyecto. Según él, 
