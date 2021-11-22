@@ -78,6 +78,7 @@ De este modo, los trabajos de Von Humboldt se distancian de los de quienes únic
        label="Alexander von Humboldt: Pittoreske Ansichten der Cordilleren und Monumente americanischer Völker, Tübingen 1810, Tafel 18." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Christian_Friedrich_Traugott_Duttenhofer%2C_Strasse_%C3%BCber_den_Quindiu.jpg">
+       
 Ahora bien, para Foucault el discurso no es un discurso exclusivo sobre la naturaleza, sino un discurso que organiza el mundo en sí. En consecuencia, la historia natural instaura el orden de las cosas en el campo natural a través de la mirada, la comprensión y la descripción:
 “El orden es [...] lo que no existe a no ser a través de la reja de una mirada, de una atención, de un lenguaje; [...] esperando en silencio el momento de ser enunciado.”[^ref10]
 
@@ -89,6 +90,7 @@ Ahora bien, para Foucault el discurso no es un discurso exclusivo sobre la natur
        label="Voyage aux Régions équinoxiales du nouveau continent, fait dans les années 1709 à 1804: Monographie des melastomacées: No. 15" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/17/Alexander%2C_Freiherr_von_Humboldt_-_Voyage_aux_R%C3%A9gions_%C3%A9quinoxiales_du_nouveau_continent%2C_fait_dans_les_ann%C3%A9es_-_1955.318_-_Cleveland_Museum_of_Art.tif">
+       
 Un elemento importante en el Essai sur la géographie des plantes son las nociones de constante natural y variable accidental:
 “C’est cette science qui examine si, à travers l’immense variété des formes végétales, on peut reconnoître quelques formes primitives, et si la diversité des espèces doit être considérée comme l’effet d’une dégénération qui a rendu constantes, avec le temps, des variétés d’abord accidentelles.”[^ref11]
 El desarrollo de estas dos nociones es lo que permite hacer una transición de la clasificación propuesta por Linneo que se enfocaba en las semejanzas a una taxonomía basada en el continuum natural previo al lenguaje. Cuando Humboldt menciona que “la géographie des plantes descend dans l’intérieur du globe: elle y consulte les monuments antiques que la nature a laissés dans les pétrifications”[^ref12] se puede percibir la idea de una anterioridad natural que establece un recorrido para llegar a la existencia actual de la especie. 
@@ -97,6 +99,7 @@ El desarrollo de estas dos nociones es lo que permite hacer una transición de l
        label="Alexander von Humboldt und Aimé Bonpland am Fuß des Vulkans Chimborazo, 1806" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/7/72/Humboldt-Bonpland_Chimborazo.jpg">
+       
 Para finalizar el análisis del ensayo de Humboldt falta entender el cambio en las formas de producir documentos, conservarlos y clasificarlos. Aquí los puntos de vista varían. Por un lado Humboldt considera por más que 
 “l’homme inquiet et laborieux, en parcourant les diverses parties du monde, a forcé un certain nombre de végétaux d’habiter tous les climats et toutes les hauteurs; mais cet empire exercé sur ces êtres organisés n’a point dénaturé leur structure primitive”.[^ref13]
 Por otro lado, para Foucault configuración de un archivo de documentos (herbarios, colecciones, jardines) va de la mano con la instauración de “un orden que es del mismo tipo que el que se estableció entre los vivientes”.[^ref14]
@@ -105,6 +108,7 @@ Por otro lado, para Foucault configuración de un archivo de documentos (herbari
        label="Alexander von Humboldt & Aimé Bonpland, Orinocco - Woodcut (1870) of Otto Roth from a drawing by H. Lademann" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/fa/Humboldt%26Bonpland_Orenoque.jpg">
+       
 Aquí es donde se responde la pregunta inicial. Al plantear una nueva forma de concebir el mundo natural y su estudio, en el que la representación y comprensión son entendidos como una producción de conocimiento abierto, la investigación de Von Humboldt hizo parte del desarrollo de un discurso oficial sobre los recursos naturales, de un nuevo régimen de verdad que estaba surgiendo en el momento: el régimen discurso de la biología.
 
 
